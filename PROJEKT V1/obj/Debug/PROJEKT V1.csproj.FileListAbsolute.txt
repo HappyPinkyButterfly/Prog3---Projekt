@@ -1,0 +1,77 @@
+C:\Users\Aljaž\source\repos\PROJEKT V1\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.AssemblyReference.cache
+C:\Users\Aljaž\source\repos\PROJEKT V1\PROJEKT V1\obj\Debug\PROJEKT_V1.Properties.Resources.resources
+C:\Users\Aljaž\source\repos\PROJEKT V1\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.GenerateResource.cache
+C:\Users\Aljaž\source\repos\PROJEKT V1\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.CoreCompileInputs.cache
+C:\Users\Aljaž\source\repos\PROJEKT V1\PROJEKT V1\bin\Debug\PROJEKT V1.exe.config
+C:\Users\Aljaž\source\repos\PROJEKT V1\PROJEKT V1\bin\Debug\PROJEKT V1.exe
+C:\Users\Aljaž\source\repos\PROJEKT V1\PROJEKT V1\bin\Debug\PROJEKT V1.pdb
+C:\Users\Aljaž\source\repos\PROJEKT V1\PROJEKT V1\obj\Debug\PROJEKT V1.exe
+C:\Users\Aljaž\source\repos\PROJEKT V1\PROJEKT V1\obj\Debug\PROJEKT V1.pdb
+F:\PROJEKT V2\PROJEKT V1\bin\Debug\PROJEKT V1.exe.config
+F:\PROJEKT V2\PROJEKT V1\bin\Debug\PROJEKT V1.exe
+F:\PROJEKT V2\PROJEKT V1\bin\Debug\PROJEKT V1.pdb
+F:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.AssemblyReference.cache
+F:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.SuggestedBindingRedirects.cache
+F:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT_V1.Properties.Resources.resources
+F:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.GenerateResource.cache
+F:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.CoreCompileInputs.cache
+F:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.exe
+F:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.pdb
+D:\PROJEKT V2\PROJEKT V1\bin\Debug\PROJEKT V1.exe.config
+D:\PROJEKT V2\PROJEKT V1\bin\Debug\PROJEKT V1.exe
+D:\PROJEKT V2\PROJEKT V1\bin\Debug\PROJEKT V1.pdb
+D:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.AssemblyReference.cache
+D:\PROJEKT V2\PROJEKT V1\obj\Debug\Pozresna_kacica.Form1.resources
+D:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT_V1.Properties.Resources.resources
+D:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.GenerateResource.cache
+D:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.CoreCompileInputs.cache
+D:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.exe
+D:\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.pdb
+C:\Users\Aljaž\Desktop\PROJEKT V2\PROJEKT V1\bin\Debug\PROJEKT V1.exe.config
+C:\Users\Aljaž\Desktop\PROJEKT V2\PROJEKT V1\bin\Debug\PROJEKT V1.exe
+C:\Users\Aljaž\Desktop\PROJEKT V2\PROJEKT V1\bin\Debug\PROJEKT V1.pdb
+C:\Users\Aljaž\Desktop\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.AssemblyReference.cache
+C:\Users\Aljaž\Desktop\PROJEKT V2\PROJEKT V1\obj\Debug\Pozresna_kacica.Form1.resources
+C:\Users\Aljaž\Desktop\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT_V1.Properties.Resources.resources
+C:\Users\Aljaž\Desktop\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.GenerateResource.cache
+C:\Users\Aljaž\Desktop\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.CoreCompileInputs.cache
+C:\Users\Aljaž\Desktop\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.exe
+C:\Users\Aljaž\Desktop\PROJEKT V2\PROJEKT V1\obj\Debug\PROJEKT V1.pdb
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.AssemblyReference.cache
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\obj\Debug\PROJEKT_V1.Properties.Resources.resources
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.GenerateResource.cache
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.CoreCompileInputs.cache
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\obj\Debug\PROJEKT V1.exe
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\obj\Debug\PROJEKT V1.pdb
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\PROJEKT V1.exe.config
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\PROJEKT V1.exe
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\PROJEKT V1.pdb
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\obj\Debug\Pozresna_kacica.Form1.resources
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\EntityFramework.dll
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\EntityFramework.xml
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Aljaž\Desktop\PROJEKT V3\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.Up2Date
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\PROJEKT V1.exe.config
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\PROJEKT V1.exe
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\PROJEKT V1.pdb
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\EntityFramework.dll
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\EntityFramework.xml
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.AssemblyReference.cache
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\obj\Debug\Pozresna_kacica.Form1.resources
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\obj\Debug\PROJEKT_V1.Properties.Resources.resources
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.GenerateResource.cache
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.CoreCompileInputs.cache
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\obj\Debug\PROJEKT V1.csproj.Up2Date
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\obj\Debug\PROJEKT V1.exe
+C:\Users\Aljaž\Desktop\PROJEKT V4\PROJEKT V1\obj\Debug\PROJEKT V1.pdb

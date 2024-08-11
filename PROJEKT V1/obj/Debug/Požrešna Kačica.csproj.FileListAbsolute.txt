@@ -1,0 +1,19 @@
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\PROJEKT V1.exe.config
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\PROJEKT V1.exe
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\PROJEKT V1.pdb
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\EntityFramework.dll
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\System.Data.SQLite.dll
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\System.Data.SQLite.EF6.dll
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\System.Data.SQLite.Linq.dll
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\EntityFramework.xml
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\bin\Debug\System.Data.SQLite.xml
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\obj\Debug\Požrešna Kačica.csproj.AssemblyReference.cache
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\obj\Debug\Pozresna_kacica.Form1.resources
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\obj\Debug\PROJEKT_V1.Properties.Resources.resources
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\obj\Debug\Požrešna Kačica.csproj.GenerateResource.cache
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\obj\Debug\Požrešna Kačica.csproj.CoreCompileInputs.cache
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\obj\Debug\Požrešna.FE2FAD1F.Up2Date
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\obj\Debug\PROJEKT V1.exe
+C:\Users\Aljaž\Desktop\AljažRemžgar_P3_SN\AljažRemžgar_P3_Projekt\PROJEKT V1\obj\Debug\PROJEKT V1.pdb
